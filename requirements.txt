@@ -1,7 +1,6 @@
 streamlit
 langchain
 langchain-community
-chromadb
 sentence-transformers
 pypdf2
 python-dotenv
@@ -15,3 +14,5 @@ faiss-cpu
 tiktoken
 numpy
 pandas
+pysqlite3-binary 
+chromadb
